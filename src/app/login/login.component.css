@@ -1,0 +1,15 @@
+.containers{
+    text-align: center;
+    
+     
+    padding: 20px;
+    width: 600px;
+    height: 400px;;
+}
+.pg{
+  
+    left: 420px;
+}
+.p :hover{
+    background-color: aqua;
+}
